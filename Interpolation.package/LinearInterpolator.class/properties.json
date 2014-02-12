@@ -1,0 +1,16 @@
+{
+	"category" : "Interpolation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startNumber",
+		"delta",
+		"duration" ],
+	"name" : "LinearInterpolator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"handlesMouseDown:" : "jmg 2/11/2014 11:21",
+		"initialize" : "jmg 2/11/2014 11:28",
+		"leftButtonDown" : "jmg 2/11/2014 11:18",
+		"leftButtonDown:" : "jmg 2/11/2014 11:18",
+		"mouseButtonDown" : "jmg 2/11/2014 11:20",
+		"mouseDown:" : "jmg 2/11/2014 11:25",
+		"mouseUp:" : "jmg 2/11/2014 11:26",
+		"rightButtonDown" : "jmg 2/11/2014 11:19",
+		"rightButtonDown:" : "jmg 2/11/2014 11:19",
+		"step" : "jmg 2/11/2014 11:27",
+		"stepTime" : "jmg 2/11/2014 11:28" } }

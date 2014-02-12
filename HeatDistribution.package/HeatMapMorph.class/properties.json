@@ -1,0 +1,15 @@
+{
+	"category" : "HeatDistribution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"leftButtonDown",
+		"rightButtonDown" ],
+	"name" : "HeatMapMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

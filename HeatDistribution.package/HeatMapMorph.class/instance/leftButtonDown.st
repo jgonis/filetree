@@ -1,0 +1,3 @@
+accessing
+leftButtonDown
+	^ leftButtonDown.
