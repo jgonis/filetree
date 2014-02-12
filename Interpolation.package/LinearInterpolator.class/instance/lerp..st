@@ -1,3 +1,3 @@
 as yet unclassified
-lerp: currentPosition
-	^ 0.
+lerp: currentPosition 
+	^ delta * (currentPosition / duration) + startNumber
