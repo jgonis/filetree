@@ -1,3 +1,3 @@
 testing
 stepTime
-	^ 1000
+	^ 0

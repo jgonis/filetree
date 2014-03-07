@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"ofSize:" : "jmg 3/7/2014 14:58" },
+	"instance" : {
+		"addHeat:" : "jmg 3/7/2014 14:20",
+		"getHeatMap" : "jmg 3/7/2014 14:29",
+		"initialize" : "jmg 3/7/2014 10:22",
+		"removeHeat:" : "jmg 3/7/2014 14:28",
+		"setSize:" : "jmg 3/7/2014 14:58" } }

@@ -1,3 +1,3 @@
-as yet unclassified
+calculate
 lerp: currentPosition 
 	^ delta * (currentPosition / duration) + startNumber

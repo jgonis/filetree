@@ -1,0 +1,16 @@
+{
+	"category" : "AmigaJuggler-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"x",
+		"y",
+		"z" ],
+	"name" : "JVector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

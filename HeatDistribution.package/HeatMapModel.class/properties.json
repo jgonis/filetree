@@ -6,14 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"leftButtonDown",
-		"rightButtonDown",
-		"model",
-		"mouseInBounds",
-		"currentLocation",
-		"backingCanvas" ],
-	"name" : "HeatMapMorph",
+		"heatMap",
+		"x",
+		"y" ],
+	"name" : "HeatMapModel",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "Object",
 	"type" : "normal" }
