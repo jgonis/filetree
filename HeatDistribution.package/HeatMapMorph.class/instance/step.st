@@ -8,5 +8,6 @@ step
 					self model addHeat: clickPoint].
 			self currentHand lastEvent yellowButtonPressed
 				ifTrue: [self backingCanvas form colorAt: clickPoint put: Color white.
-	self model removeHeat: clickPoint.]].
+					self model removeHeat: clickPoint]].
+	self model updateHeat.
 	self changed

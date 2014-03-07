@@ -3,11 +3,11 @@
 		 },
 	"instance" : {
 		"backingCanvas" : "jmg 3/7/2014 13:56",
-		"drawOn:" : "jmg 3/7/2014 15:07",
+		"drawOn:" : "jmg 3/7/2014 15:29",
 		"handlesMouseDown:" : "jmg 3/7/2014 14:22",
 		"handlesMouseOver:" : "jmg 3/7/2014 10:52",
 		"handlesMouseOverDragging:" : "jmg 3/7/2014 10:52",
-		"initialize" : "jmg 3/7/2014 13:56",
+		"initialize" : "jmg 3/7/2014 15:31",
 		"model" : "jmg 3/7/2014 14:17",
 		"mouseDown:" : "jmg 3/7/2014 14:27",
 		"mouseEnter:" : "jmg 3/7/2014 13:36",
@@ -15,5 +15,5 @@
 		"mouseLeave:" : "jmg 3/7/2014 13:36",
 		"mouseLeaveDragging:" : "jmg 3/7/2014 13:36",
 		"mouseMove:" : "jmg 3/7/2014 10:59",
-		"step" : "jmg 3/7/2014 14:28",
+		"step" : "jmg 3/7/2014 15:20",
 		"stepTime" : "jmg 3/7/2014 13:59" } }

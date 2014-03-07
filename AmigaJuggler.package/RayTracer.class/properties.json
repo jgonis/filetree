@@ -1,15 +1,13 @@
 {
-	"category" : "HeatDistribution",
+	"category" : "AmigaJuggler-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"heatMap",
-		"width",
-		"height" ],
-	"name" : "HeatMapModel",
+		"surface" ],
+	"name" : "RayTracer",
 	"pools" : [
 		 ],
 	"super" : "Object",

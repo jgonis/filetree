@@ -1,5 +1,5 @@
 private
 setSize: anExtent 
-	x := anExtent x.
-	y := anExtent y.
-	heatMap := FloatArray ofSize: (x * y).
+	width := anExtent x.
+	height := anExtent y.
+	heatMap := FloatArray ofSize: width * height
